@@ -41,14 +41,9 @@
         </div>
         <div class="bg-[#7ebdf3] rounded">
           <div class="m-[6px] lg:border lg:px-10 py-5 border-white text-center flex flex-col gap-1 font-medium">
-            <div class="text-white lg:text-6xl text-5xl">3000</div>
-            <div class="lg:text-xl font-bold">рублей</div>
-            <div class="lg:text-lg text-white">неделя</div>
-            <div class="flex justify-center gap-2 mt-2">
-              <div class="bg-white px-[4px] py-[2px] font-bold">ПН</div>
-              <div class="bg-white px-[10px] py-[2px] font-bold">-</div>
-              <div class="bg-white px-[4px] py-[2px] font-bold">ПН</div>
-            </div>
+            <div class="text-white lg:text-6xl text-5xl">Скидка</div>
+            <div class="lg:text-xl font-bold">от 5 дней</div>
+            <div class="lg:text-lg text-white">20%</div>
           </div>
         </div>
       </div>
