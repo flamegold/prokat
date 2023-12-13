@@ -39,11 +39,11 @@
             </div>
           </div>
         </div>
-        <div class="bg-[#7ebdf3] rounded">
-          <div class="m-[6px] lg:border lg:px-10 py-5 border-white text-center flex flex-col gap-1 font-medium">
-            <div class="text-white lg:text-6xl text-5xl">Скидка</div>
-            <div class="lg:text-xl font-bold">от 5 дней</div>
-            <div class="lg:text-lg text-white">20%</div>
+        <div class="bg-[#7ebdf3] rounded flex h-[100%] items-center">
+          <div class="m-[6px] lg:border py-5 border-white text-center flex flex-col gap-1 font-medium h-[95%] w-[100%] justify-center">
+            <div class="text-white lg:text-5xl text-3xl">Скидка</div>
+            <div class="lg:text-xl font-bold text-xl">от 5 дней</div>
+            <div class="lg:text-xl text-white text-lg">20%</div>
           </div>
         </div>
       </div>
