@@ -19,7 +19,7 @@
               class="justify-between lg:h-[200px] m-[6px] lg:border border-gray-200 lg:px-10 lg:py-5 py-2 text-center flex flex-col gap-1 font-medium ">
               <div class="text-black lg:text-3xl  uppercase text-2xl ">Шлем</div>
               <div>
-                <div class="text-[#1172d9] lg:text-5xl font-bold text-3xl">200</div>
+                <div class="text-[#1172d9] lg:text-5xl font-bold text-3xl">300</div>
                 <div class="lg:text-xl font-bold">рублей/сутки</div>
               </div>
             </div>
@@ -29,7 +29,7 @@
               class="justify-between lg:h-[200px] m-[6px] lg:border border-gray-200 lg:px-10 lg:py-5 py-2 text-center flex flex-col gap-1 font-medium">
               <div class="text-black lg:text-3xl uppercase text-2xl ">Маска</div>
               <div>
-                <div class="text-[#1172d9] lg:text-5xl font-bold text-3xl">200</div>
+                <div class="text-[#1172d9] lg:text-5xl font-bold text-3xl">300</div>
                 <div class="lg:text-xl font-bold">рублей/сутки</div>
               </div>
             </div>
@@ -49,7 +49,7 @@
               class="justify-between lg:h-[200px] m-[6px] lg:border border-gray-200 lg:px-10 lg:py-5 py-2 text-center flex flex-col gap-1 font-medium">
               <div class="text-black lg:text-3xl uppercase text-2xl ">Штаны</div>
               <div>
-                <div class="text-[#1172d9] lg:text-5xl font-bold text-3xl">300</div>
+                <div class="text-[#1172d9] lg:text-5xl font-bold text-3xl">400</div>
                 <div class="lg:text-xl font-bold">рублей/сутки</div>
               </div>
             </div>
@@ -59,7 +59,7 @@
               class="justify-between lg:h-[200px] m-[6px] lg:border border-gray-200 lg:px-10 lg:py-5 py-2 text-center flex flex-col gap-1 font-medium">
               <div class="text-black lg:text-3xl text-2xl uppercase">Куртка</div>
               <div>
-                <div class="text-[#1172d9] lg:text-5xl font-bold text-3xl">300</div>
+                <div class="text-[#1172d9] lg:text-5xl font-bold text-3xl">400</div>
                 <div class="lg:text-xl font-bold">рублей/сутки</div>
               </div>
             </div>
@@ -69,7 +69,7 @@
               class="justify-between lg:h-[200px] m-[6px] lg:border border-gray-200 lg:px-10 lg:py-5 py-2 text-center flex flex-col gap-1 font-medium">
               <div class="text-black lg:text-3xl uppercase text-2xl">Защитные шорты</div>
               <div>
-                <div class="text-[#1172d9] lg:text-5xl font-bold text-3xl">200</div>
+                <div class="text-[#1172d9] lg:text-5xl font-bold text-3xl">300</div>
                 <div class="lg:text-xl font-bold ">рублей/сутки</div>
               </div>
             </div>

@@ -18,13 +18,13 @@
           class="px-4 justify-between items-center rounded flex w-[100%] lg:w-[850px] bg-gradient-to-r from-[#168fea] to-[#0e5fca] text-white">
           <div class="uppercase text-xl md:text-3xl lg:text-3xl font-meduim">Заточка сноуборда/лыж</div>
           <div class="font-meduim md:text-2xl lg:text-2xl font-bold w-[30%] text-right"><span
-              class="md:text-5xl lg:text-5xl">600</span> P</div>
+              class="md:text-5xl lg:text-5xl">600</span> P / 900 P</div>
         </div>
         <div
           class="px-4 justify-between items-center rounded flex w-[100%] lg:w-[850px] bg-gradient-to-r from-[#168fea] to-[#0e5fca] text-white">
           <div class="uppercase text-xl md:text-3xl lg:text-3xl font-meduim">Парафинка сноуборда/лыж</div>
           <div class="font-meduim md:text-2xl lg:text-2xl font-bold w-[30%] text-right"><span
-              class="md:text-5xl lg:text-5xl">600</span> P</div>
+              class="md:text-5xl lg:text-5xl">700</span> P</div>
         </div>
         <div
           class="px-4 justify-between items-center rounded flex w-[100%] lg:w-[850px] bg-gradient-to-r from-[#168fea] to-[#0e5fca] text-white">
@@ -35,6 +35,18 @@
         <div
           class="px-4 justify-between items-center rounded flex w-[100%] lg:w-[850px] bg-gradient-to-r from-[#168fea] to-[#0e5fca] text-white">
           <div class="uppercase text-xl md:text-3xl lg:text-3xl font-meduim">Ремонт скользящей поверхности</div>
+          <div class="font-meduim md:text-2xl lg:text-2xl font-bold w-[30%] text-right">от <span
+              class="md:text-5xl lg:text-5xl">300</span> P</div>
+        </div>
+        <div
+          class="px-4 justify-between items-center rounded flex w-[100%] lg:w-[850px] bg-gradient-to-r from-[#168fea] to-[#0e5fca] text-white">
+          <div class="uppercase text-xl md:text-3xl lg:text-3xl font-meduim">Консервация</div>
+          <div class="font-meduim md:text-2xl lg:text-2xl font-bold w-[30%] text-right"><span
+              class="md:text-5xl lg:text-5xl">400</span> P</div>
+        </div>
+        <div
+          class="px-4 justify-between items-center rounded flex w-[100%] lg:w-[850px] bg-gradient-to-r from-[#168fea] to-[#0e5fca] text-white">
+          <div class="uppercase text-xl md:text-3xl lg:text-3xl font-meduim">Проклейка расслоений</div>
           <div class="font-meduim md:text-2xl lg:text-2xl font-bold w-[30%] text-right">от <span
               class="md:text-5xl lg:text-5xl">300</span> P</div>
         </div>

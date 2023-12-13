@@ -16,7 +16,7 @@
       <div class="relative z-10 lg:grid grid-cols-[repeat(3,220px)] justify-center items-center gap-10">
         <div class="bg-[#7ebdf3] rounded">
           <div class="m-[6px] lg:border lg:px-10 py-5 border-white text-center flex flex-col gap-1 font-medium">
-            <div class="text-white lg:text-6xl text-5xl">600</div>
+            <div class="text-white lg:text-6xl text-5xl">700</div>
             <div class="lg:text-xl font-bold">рублей/день</div>
             <div class="lg:text-lg text-white">будни</div>
             <div class="flex justify-center gap-2 mt-2">
@@ -29,7 +29,7 @@
         </div>
         <div class="bg-[#7ebdf3] rounded">
           <div class="m-[6px] lg:border lg:px-10 py-5 border-white text-center flex flex-col gap-1 font-medium">
-            <div class="text-white lg:text-6xl text-5xl">700</div>
+            <div class="text-white lg:text-6xl text-5xl">900</div>
             <div class="lg:text-xl font-bold">рублей/день</div>
             <div class="lg:text-lg text-white">выходные</div>
             <div class="flex justify-center gap-2 mt-2">
