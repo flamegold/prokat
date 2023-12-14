@@ -91,7 +91,7 @@
       class="absolute lg:bg-[url('/img/U4.png')] w-[400px] bg-no-repeat h-[179px] bg-[length:391px_100%] bottom-[10%] right-0">
     </div>
     <div
-      class="z-20 absolute lg:bg-[url('/img/people2.png')] w-[350px] bg-no-repeat h-[350px] bg-[length:300px_100%] bottom-[13%] left-[4%]">
+      class="z-20 absolute 2xl:bg-[url('/img/people2.png')]  w-[250px] bg-no-repeat h-[250px] bg-[length:200px_100%] bottom-[13%] left-[4%]">
     </div>
   </div>
 </template>
